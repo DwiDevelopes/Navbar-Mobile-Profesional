@@ -12,7 +12,7 @@ Navbar Mobile Profesional adalah komponen navigasi responsif yang dirancang khus
 
 ## Contoh Tampilan
 
-![Contoh Navbar Mobile Profesional](https://raw.githubusercontent.com/mdbootstrap/Bootstrap-4-Navbar/master/mobile-navbar.png)
+<img src ="Screenshot 2025-05-13 211608.png">
 
 ## Struktur Dasar
 
